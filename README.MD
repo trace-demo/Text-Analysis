@@ -1,6 +1,6 @@
 <br/>
 
-🐮 **Console output here:**
+🐮 **Console output** 👇👇
 
 
 <br />
@@ -11,6 +11,8 @@
 
 <br />
 
+<br />
 
 
-`Regarding the generated file || it is in asset folder || the non-modified one` 👍
+
+**Generated file is in './asset/The Count of Monte Cristo.txt' ** 
