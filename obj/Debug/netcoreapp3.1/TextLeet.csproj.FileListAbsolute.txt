@@ -1,0 +1,13 @@
+C:\Users\zhuo1\cshapp\TextLeet\bin\Debug\netcoreapp3.1\TextLeet.exe
+C:\Users\zhuo1\cshapp\TextLeet\bin\Debug\netcoreapp3.1\TextLeet.deps.json
+C:\Users\zhuo1\cshapp\TextLeet\bin\Debug\netcoreapp3.1\TextLeet.runtimeconfig.json
+C:\Users\zhuo1\cshapp\TextLeet\bin\Debug\netcoreapp3.1\TextLeet.runtimeconfig.dev.json
+C:\Users\zhuo1\cshapp\TextLeet\bin\Debug\netcoreapp3.1\TextLeet.dll
+C:\Users\zhuo1\cshapp\TextLeet\bin\Debug\netcoreapp3.1\TextLeet.pdb
+C:\Users\zhuo1\cshapp\TextLeet\obj\Debug\netcoreapp3.1\TextLeet.csprojAssemblyReference.cache
+C:\Users\zhuo1\cshapp\TextLeet\obj\Debug\netcoreapp3.1\TextLeet.AssemblyInfoInputs.cache
+C:\Users\zhuo1\cshapp\TextLeet\obj\Debug\netcoreapp3.1\TextLeet.AssemblyInfo.cs
+C:\Users\zhuo1\cshapp\TextLeet\obj\Debug\netcoreapp3.1\TextLeet.csproj.CoreCompileInputs.cache
+C:\Users\zhuo1\cshapp\TextLeet\obj\Debug\netcoreapp3.1\TextLeet.dll
+C:\Users\zhuo1\cshapp\TextLeet\obj\Debug\netcoreapp3.1\TextLeet.pdb
+C:\Users\zhuo1\cshapp\TextLeet\obj\Debug\netcoreapp3.1\TextLeet.genruntimeconfig.cache
