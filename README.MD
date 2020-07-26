@@ -15,4 +15,4 @@
 
 
 
-**Generated file is in './asset/The Count of Monte Cristo.txt' ** 
+**Generated file is in asset folder. The non-modified one ** 
