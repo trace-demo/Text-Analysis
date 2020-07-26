@@ -1,6 +1,7 @@
 <br/>
 
-**Console output here:**
+🐮 **Console output here:**
+
 
 <br />
 
@@ -10,4 +11,6 @@
 
 <br />
 
-**Regarding the generated file || it is in asset folder | the non-modified one** 👍
+
+
+`Regarding the generated file || it is in asset folder || the non-modified one` 👍
