@@ -12,5 +12,5 @@
 <br />
 
 
-🤴
+--
 ##### Generated file is in './asset/The Count of Monte Cristo.txt'
