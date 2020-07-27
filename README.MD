@@ -11,7 +11,6 @@
   <img src="doc/app-demo.PNG" alt="example screenshot">
 </div>
 
-<br />
 
 
 <br />
