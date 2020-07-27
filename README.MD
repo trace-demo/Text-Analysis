@@ -1,6 +1,6 @@
 <br/>
 
-🐮 **Console like this** 👇👇
+🐮 **Console like this** 👇 👇
 
 
 <br />
